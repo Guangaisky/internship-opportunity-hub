@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; background: #f8fafc; font: 16px/1.5 system-ui, -apple-system, "Microsoft YaHei", sans-serif; }
+button, input { font: inherit; }
+button { cursor: pointer; }
